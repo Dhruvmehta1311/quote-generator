@@ -32,7 +32,8 @@ cd quote-generator
 - JavaScript
 
 ## Credits
-- This project utilizes the [Type Fit API](https://type.fit/api/quotes) for fetching quotes.
+- This project utilizes the <a href="https://type.fit/api/quotes" target="_blank">Type Fit API</a> for fetching quotes.
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
