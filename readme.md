@@ -8,6 +8,10 @@ This project fetches quotes from the [Type Fit API](https://type.fit/api/quotes)
 - Displays quotes along with the author's name.
 - Incorporates a loader to indicate data fetching process.
 
+## Live URL
+[Quote Generator](https://quote-generator-two-azure.vercel.app/)
+
+
 ## Installation
 1. Clone this repository to your local machine.
 git clone https://github.com/Dhruvmehta1311/quote-generator
